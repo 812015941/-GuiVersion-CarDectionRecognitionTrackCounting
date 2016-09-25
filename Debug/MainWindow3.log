@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/9/20 11:26:12。
+     1>项目“C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\MainWindow3\MainWindow3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\PerfectStandard.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\\PerfectStandard.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib opencv_calib3d244d.lib opencv_contrib244d.lib opencv_core244d.lib opencv_features2d244d.lib opencv_flann244d.lib opencv_gpu244d.lib opencv_highgui244d.lib opencv_imgproc244d.lib opencv_legacy244d.lib opencv_ml244d.lib opencv_objdetect244d.lib opencv_ts244d.lib opencv_video244d.lib /MANIFEST /ManifestFile:"Debug\PerfectStandard.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\PerfectStandard.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\PerfectStandard.lib" /MACHINE:X86 Debug\PerfectStandard.res
+         Debug\CarDetection.obj
+         Debug\CountingCars.obj
+         Debug\moc_mainwindow.obj
+         Debug\qrc_mainwindow.obj
+         Debug\main.obj
+         Debug\mainwindow.obj
+         Debug\MeanShift.obj
+         LINK : 没有找到 C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\\PerfectStandard.exe 或上一个增量链接没有生成它；正在执行完全链接
+         MainWindow3.vcxproj -> C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\PerfectStandard.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\Win32\Debug\\PerfectStandard.exe;#1" /manifest Debug\PerfectStandard.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\PerfectStandard.unsuccessfulbuild”。
+         正在对“Debug\PerfectStandard.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\812015941\Documents\Visual Studio 2010\Projects\QtApp\PerfectStandard\MainWindow3\MainWindow3.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.83
